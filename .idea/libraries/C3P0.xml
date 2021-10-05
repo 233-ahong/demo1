@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="C3P0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/JDBClianjiechi/libs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/JDBClianjiechi/libs" recursive="false" />
+  </library>
+</component>
